@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EntregaBotones1</string>
+    <string name="boton1">Boton1</string>
+    <string name="boton2">boton2</string>
+    <string name="boton3">boton3</string>
+    <string name="boton4">boton4</string>
+    <string name="n_mero_aleatorio">Número aleatorio</string>
+    <string name="letra_aleatoria">Letra aleatoria</string>
+    <string name="cambiar_letra_aleatoria">Cambiar Letra Aleatoria</string>
+    <string name="palabra_aleatoria">Palabra aleatoria</string>
+</resources>
